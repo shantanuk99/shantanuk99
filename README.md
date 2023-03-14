@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Shantanu</h1>
-<h3 align="center">A passionate software developer from India looking for ways to increase knowledge everyday and collaborate with cool people.</h3>
+<h3 align="center">A passionate software developer from India looking for ways to increase my knowledge everyday and collaborate with cool people.</h3>
 
 - 🌱 I’m currently learning **ElasticSearch, Kubernetes, Docker**
 
